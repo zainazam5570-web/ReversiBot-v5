@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reversi Bot</string>
+    <string name="a11y_label">Reversi Bot Tapper</string>
+    <string name="a11y_desc">Sirf screen par tap karne ke liye istemal hoti hai (Reversi bot ki chaal). Screen ka content nahi padhti.</string>
+</resources>
